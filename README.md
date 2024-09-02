@@ -1,2 +1,2 @@
 Download the data from 
-kaggle competitions download -c cifar-10
+kaggle competitions download -c cifar-10 
