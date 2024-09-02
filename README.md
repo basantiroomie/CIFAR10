@@ -40,3 +40,5 @@ weighted avg       0.41      0.30      0.32     20000
 Precision: 0.4098
 Recall: 0.3018
 Accuracy: 0.3018
+```
+![image](https://github.com/user-attachments/assets/c2d66c9d-b421-49b4-9d4f-77603f43d7e9)
