@@ -11,6 +11,15 @@ You can download the dataset using the Kaggle API:
 ```bash
 kaggle competitions download -c cifar-10
 ```
+
+## Installation 
+
+Clone the repository 
+
+```bash
+https://github.com/meghaprasad23/CIFAR10.git
+```
+
 ## Results
 
 After training, the model achieved an accuracy of **30.18%** on the CIFAR-10 test dataset. 
