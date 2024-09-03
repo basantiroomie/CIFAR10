@@ -1,4 +1,4 @@
-# CIFAR-10 Classification Project
+# CIFAR-10 Model Development 
 
 This repository contains the code for training and evaluating a deep learning model on the CIFAR-10 dataset. The project demonstrates the steps involved in downloading the dataset, pre-processing the data, building the model, training it, and evaluating its performance.
 
